@@ -10,7 +10,7 @@ function Footer() {
     <footer className="mt-100 px-4 md:px-12 flex justify-between items-center mb-20">
       <div className="flex-1">
         <h1 className="text-2xl font-bold mb-15">
-          <img src="/assets/images/Hero_header.png" className="w-18" />
+          <img src="assets/images/Hero_header.png" className="w-18" />
         </h1>
         <nav className="mt-2">
           <div className="flex">

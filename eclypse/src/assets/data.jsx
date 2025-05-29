@@ -20,7 +20,7 @@ export const CustomersNames = [
     description: "Understated, but unforgettable. It feels like it was made for me",
     customerName:"Alice Johnson",
     place: "Paris, France",
-    image: "../assets/images/customer-1.png",
+    image: "assets/images/customer-1.png",
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ export const CustomersNames = [
     description: "A quiet masterpiece. A perfect balance of poise and personality, meant to be felt rather than seen.",
     customerName:"John Doe",
     place: "New York, USA",
-    image: "../assets/images/customer-1.png",
+    image: "assets/images/customer-1.png",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const CustomersNames = [
     description: "Minimalist beauty with an edge-crafted with intention, worn with confidence, remembered forever",
     customerName:"Jane Smith",
     place: "London, UK",
-    image: "../assets/images/customer-1.png",
+    image: "assets/images/customer-1.png",
   },
 ];
 

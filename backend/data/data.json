@@ -44,10 +44,10 @@
       "taxInfo": "Inclusive of all taxes",
       "description": "A tailored masterpiece in vermilion, our blazer styled with a cropped silhouette and defined lapels.",
       "images": [
-        "/src/assets/images/product-0.png",
-        "/src/assets/images/product-1.png",
-        "/src/assets/images/product-2.png",
-        "/src/assets/images/product-3.png"
+        "assets/images/product-0.png",
+        "assets/images/product-1.png",
+        "assets/images/product-2.png",
+        "assets/images/product-3.png"
       ],
       "sizeChart": ["XS", "S", "M", "L", "XL"]
     }
