@@ -1,0 +1,12 @@
+# Ignore frontend dependencies
+eclipse/node_modules/
+
+# Ignore backend dependencies
+backend/node_modules/
+
+# Ignore build files
+eclipse/dist/
+backend/dist/
+
+# Ignore environment variables
+.env
